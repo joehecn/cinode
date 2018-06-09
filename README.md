@@ -1,3 +1,8 @@
+master:
+[![Build Status](https://travis-ci.org/joehecn/cinode.svg?branch=master)](https://travis-ci.org/joehecn/cinode)
+dev:
+[![Build Status](https://travis-ci.org/joehecn/cinode.svg?branch=dev)](https://travis-ci.org/joehecn/cinode)
+
 # cinode
 
 ``` bash
